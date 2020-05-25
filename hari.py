@@ -78,7 +78,7 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\x1b[0;31m⚔═══════════════════════════☠═══════════════════════════⚔"
 print  """\x1b[0;31m [¤] \x1b[0;31mASSALAM O ALAIKUM\x1b[0;31m  \033[1;96m   [¤] \x1b[0;31mWHATSAPP : 03492952780\x1b[1;96m  
-\033[1;93m [¤] \x1b[0;31mMade By Heer\x1b[1;96m      [¤] \x1b[0;31mFACEBOOK : HAris kHAN TRicker\x1b[1;96m  
+\033[1;93m [¤] \x1b[0;31mMade By HARIS\x1b[1;96m      [¤] \x1b[0;31mFACEBOOK : HAris kHAN TRicker\x1b[1;96m  
 \033[1;93m [¤] \x1b[0;31mTOOLS BY HAri\x1b[1;96m  [¤] \x1b[0;31mYOUTUBE  : Haris CREATIONSs\x1b[0;31m"""
 print " \x1b[1;93m⚔══════════════════════════☠═══════════════════════════⚔"
 
